@@ -8,7 +8,8 @@ Good news, Hackintosh enthusiasts! If you’re looking to get an Intel WiFi card
  • AMFIPass
  • IO80211FamilyLegacy
  • IOSkywalkFamily
- 5. Download OpenCore Legacy Patcher (OCLP), an older nightly version, and run a patch.
+ 5. Download OpenCore Legacy Patcher (OCLP), an older [nightly version](https://github.com/goodbest/HaC-Mini/releases/download/v2.9.1/OpenCore-Patcher166.pkg.zip)
+, and run a patch.
 Once patched, add a hash tag comment to disable the fake device in Device Properties, restart, and boom—you should be up and running with Intel WiFi on Sequoia, using the default macOS WiFi app! 🌐
 
 ![Screenshot](https://raw.githubusercontent.com/Serverbd-Technology/HP-g6-EFI/main/images/Screenshot%201403-08-23%20at%2000.27.00.png)
